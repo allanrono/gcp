@@ -1,0 +1,8 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>Google Console Platform></h1>
+		<p>This is a HTml Doc about google console platform</p>
+	</body>
+</html>
